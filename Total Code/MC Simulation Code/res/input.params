@@ -1,0 +1,12 @@
+1000000         nphotons
+1.              xmax in cm
+1.              ymax in cm
+1.              zmax in cm
+1.0             n1
+1.38            n2
+10		Power
+0.005		deltat
+8.e-9		Volume	
+1050		rho 		(constant)
+3700		specheat	(constant)
+800		Wavelength
